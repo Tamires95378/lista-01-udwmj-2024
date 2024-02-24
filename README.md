@@ -13,7 +13,7 @@ Este é um Conversor de Unidade de Medida feito em HTML, CSS e utilizando a ling
 - JAVASCRIPT 
 
 ## QUESTÃO 08:
-Um programa simples me apresentando um PHP
+Um programa simples me apresentando um PHP.
 
 ### Tecnologias utilizadas:
 - PHP
