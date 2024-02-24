@@ -21,7 +21,7 @@ Este é um Conversor de Unidade de Medida feito em HTML, CSS e utilizando a ling
 ### Editor:
 VSCode (Visual Studio Code)
 
-# Servidor:
+### Servidor:
 XAMPP: Pacote com os principais servidores de código aberto do mercado, incluindo FTP, banco de dados MySQL e Apache com suporte as linguagens PHP e Perl.
 
 ### Autora:
