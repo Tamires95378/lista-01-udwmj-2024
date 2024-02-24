@@ -1,10 +1,10 @@
 # lista-01-udwmj-2024
 
-# QUESTÃO 07:
-# Conversor de Unidade de Medida:
+## QUESTÃO 07:
+### Conversor de Unidade de Medida:
 Este é um Conversor de Unidade de Medida feito em HTML, CSS e utilizando a linguagem de programação JavaScript. É uma ferramenta simples que o usuário digita a quantidade que deseja converter e a unidade e o conversor ira dar o valor convertido.
 
-# QUESTÃO 08:
+## QUESTÃO 08:
 #
 ### Características:
 
@@ -18,7 +18,7 @@ Este é um Conversor de Unidade de Medida feito em HTML, CSS e utilizando a ling
 - JAVASCRIPT 
 - PHP
 
-- ### Editor:
+### Editor:
 VSCode (Visual Studio Code)
 
 # Servidor:
